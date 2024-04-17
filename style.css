@@ -1,0 +1,200 @@
+.food1 {
+    width: 500px;
+    height: 580px;
+    border: 2px solid #E8E8E8;
+    margin: 20px auto;
+    padding: 20px 20px;    
+    font-size: 30px;
+    border: 5px auto;
+    border-radius: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.food1ban {
+    width: 100%;
+    height: 400px;
+    border-radius: 20px;
+}
+.offtagrel {
+    position: relative;
+}
+.offtag{
+    width: 200px;
+    position: absolute;
+    bottom: 0;
+    background-color: #266FEF;
+    font-size: 22px;
+    margin-bottom: 30px;
+    color: white;
+    text-indent: 10px;
+}
+.offtagrel .timetag {
+    width: 100px;
+    position: absolute;
+    right: 0;
+    margin-top: -60px;
+    margin-right: 30px;
+    background-color: white;
+    font-size: 22px;
+    color: black;
+    text-indent: 20px;
+    border-radius: 10px;
+}
+
+.offtagrel .promotion {
+    width: 130px;
+    position: absolute;
+    top: 0;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: #949195;
+    font-size: 22px;
+    color: #C5B8BD;
+    text-indent: 18px;
+    border-radius: 10px;
+}
+.heading {
+    margin-top: -5px;
+    font-size: 30px;
+}
+.menutyp {
+    margin-top: -25px;
+    font-size: 20px;
+    font-weight: 300;
+    border-color: rgb(204, 201, 201);
+    color: rgba(104, 99, 99, 0.952);
+}
+.footer{
+    border-top: 1px solid rgb(165, 163, 163);
+}
+.footer1{
+    margin-top: 20px;
+    margin-left: 120px;
+    font-size: 20px;
+    color: #848484;
+}
+.footerup {
+    margin-top: -60px;
+    font-size: 20px;
+    background-color: #16949B;
+    margin-right: 400px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    line-height: 18px;
+}
+.footerdn {
+    background-color: goldenrod;
+    color: black;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold; 
+    padding: 0px 12px;
+}
+.travel{
+    width: 900px;
+    height: 700px;
+    margin: auto auto;
+    padding: 20px 20px;    
+    font-size: 30px;
+    border: 5px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nature{
+    width: 100%;
+    border-radius: 30px;
+}
+.travelrel{
+    position: relative;
+}
+.content{
+    position: absolute;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    margin-bottom: 100px;
+    text-align: center;
+}
+.subhead {
+    font-size: 20px;
+    color: white
+}
+.btn1 {
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+    padding: 20px 50px;
+    font-size: 20px;
+    border: none;
+}
+.foodbanner{
+    width: 1000px;
+    height: 500px;
+    margin: auto auto;
+    padding: 20px 20px;    
+    font-size: 30px;
+    border: 5px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.foodbanrel{
+    position: relative;
+
+}
+.foodimg{
+    width: 100%;
+    height: 300px;
+}
+.content2 {
+    position: absolute;
+    top: 0;
+    text-align: center;
+    margin-left: 200px;
+    color: white;
+}
+.comname{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.comcont{
+    margin-top: -30px;
+}
+.banfooter{
+    background-color: white;
+    color: black;
+    font-size: 10px;
+    border-radius: 10px;
+    padding: 15px 30px;
+    text-indent: -180px;
+    font-size: 20px;
+    left: 0;
+}
+.profilbanner{
+    width: 800px;
+    height: 800px;
+    background-color: white;
+    margin: auto;
+    font-size: 30px;
+    border: 5px auto;
+    border-radius: 10px;
+    position: relative;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.profbanner{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px
+}
+.profphoto{
+    height: 200px;
+    position: absolute;
+    left: 40%;
+    bottom: 175px;
+    border-radius: 50%;
+    border: 4px solid white;
+    
+
+}
+.finalfoot{
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 100px;
+}
